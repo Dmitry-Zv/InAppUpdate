@@ -1,0 +1,1 @@
+Just simple server for testing update app functionality in android
